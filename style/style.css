@@ -1,0 +1,30 @@
+.head{
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+.head p{
+    color: aliceblue;
+}
+.head a{
+    color: aliceblue;
+}
+.navigation{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.language select{
+    padding-left: 100px;
+}
+.mainn{
+    display: flex;
+}
+.mainnn{
+    text-align: center;
+}
+.footer {
+    display: flex;
+}
